@@ -1,7 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
 import App from "../App";
 import ExchangeRates from "../pages/ExchangeRates";
-import About from "../pages/About";
 import Home from "../pages/Home";
 import ErrorPage from "../pages/ErrorPage";
 
